@@ -10,4 +10,12 @@ I have settled to learn Html , CSS and React.
 
 **Link to work:** [None yet](http://www.example.com)
 
+### Day 1: November 30, 2020 
+##### 
 
+**Today's Progress**: Today, I Started learning Html.
+Didn't learn much but I now have a good idea of tags, children, basic HTML formatting.
+
+**Thoughts:** I honestly found it a bit boring, I've always been one to skip the little basics and jump right into the fun, but this time I want my learning to be thorough.
+
+**Link to work:** [None yet]
