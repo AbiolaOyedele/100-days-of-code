@@ -32,6 +32,17 @@ I wrote a script that generates random articles from wikipedia, lets you view cu
 **Link to work:** [wikipedia_article_generator](https://github.com/AbiolaOyedele/wikipedia_article_generator/blob/6e38a9fcb52d0b402138e8177048ad69803fa322/Wikipedia.py)
 
 
+### Day 3: November 30, 2020 
+##### 
+
+**Today's Progress**: Today, I did learnt a bit more about html.
+Nothing really fancy, just more elements.
+
+
+**Thoughts:** I honestly can't wait to get into CSS and add colour, fonts, alignments etc to the webpage. 
+
+**Link to work:** [Tweet](https://twitter.com/EmperorAbiola/status/1334257963670835202)
+
 
 
 
